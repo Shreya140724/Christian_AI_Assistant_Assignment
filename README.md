@@ -325,7 +325,7 @@ Jesus walking on water
 
 **Output**
 
-Generated Christian image displayed in UI.
+![Jesus walking on water](Jesus walking on water.png)
 
 ---
 
