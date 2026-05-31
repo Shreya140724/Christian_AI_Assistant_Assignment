@@ -325,7 +325,7 @@ Jesus walking on water
 
 **Output**
 
-![Jesus walking on water](/generated_images/Jesus walking on water.png)
+![Jesus walking on water](/generated_images/jesus_walking_on_water.png.png)
 
 ---
 
